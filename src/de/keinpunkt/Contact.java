@@ -3,7 +3,7 @@ package de.keinpunkt;
 import javax.swing.*;
 
 @SuppressWarnings("serial")
-public class Contact extends JFrame {//inheriting JFrame
+public class Contact extends JFrame {//inheriting JFram
 
     JFrame f;
 
